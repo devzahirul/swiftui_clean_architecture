@@ -8,6 +8,10 @@ In this guide, you’ll learn how to:
 - **Implement a Centralized Dependency Injection Container**: Simplify dependency management by injecting services and objects into your views in a seamless and controlled way.
 - **Create a Reusable View Container**: Separate data fetching logic from UI rendering to decouple concerns and improve reusability.
 - **Utilize Swift’s Concurrency Features**: Leverage the async/await pattern to write modern, efficient asynchronous code.
+![Screenshot 2024-10-24 at 7 00 17 PM](https://github.com/user-attachments/assets/049b5b47-8da7-47e4-89ea-efd9ab2796c3)
+
+
+
 
 ### Example: API Endpoint Protocol
 
